@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifysample",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/yonai/dev/react/react_amplify/boardapp/amplify/backend/api/amplifysample/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
